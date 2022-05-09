@@ -16,9 +16,9 @@
 
 ●スケジュール案
 
-1部 <h1><font color="red">9:35-11:40</font></h1> [座長: 柴田]
+1部 9:35-11:40 [座長: 柴田]
 
-- 9:30(5min) 世話人から諸注意&代表挨拶
+- <span style="color: red; ">9:30(5min)</span> 世話人から諸注意&代表挨拶
 
 <Sun & Sun-like stars>
 
