@@ -1,5 +1,6 @@
+## Stellar magnetic activity workshop 2022
 
-●研究会: Stellar magnetic activity workshop 2022
+●研究会: Stellar magnetic activity workshop 2022 (旧スーパーフレアWS)
 
 ●日時: 2022/5/12(木) 
 
