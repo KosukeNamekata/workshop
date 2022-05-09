@@ -1,8 +1,6 @@
 ## Stellar magnetic activity workshop 2022
 
-
-
-![Test Image 1](/workshop/イラスト_横4_3.jpg)
+<p><img src="/workshop/イラスト_横4_3.jpg" /></p>
 
 ******************************************
 
