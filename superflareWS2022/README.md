@@ -49,7 +49,7 @@
 
 - <span style="color: blue; ">15(10+5)min</span> 浪崎桂一(京都大学) 測光・分光観測で迫る恒星スーパーフレアにおける彩層放射メカニズム
 
-- <span style="color: blue; ">20(15+5)min</span> 逢澤正嵩 (李政道研究所) [online] Tomo-e Gozenを用いたM dwarfからの超高速フレアの探索
+- <span style="color: blue; ">20(15+5)min</span> 逢澤正嵩 (李政道研究所) <span style="color: red; ">[online]</span> Tomo-e Gozenを用いたM dwarfからの超高速フレアの探索
 
 - <span style="color: blue; ">20(15+5)min</span> 有松亘(京都大学) スーパーフレアを武器に惑星系を知る: デブリ円盤を例に
 
@@ -59,11 +59,11 @@
 
 - <span style="color: blue; ">10(7+3)min</span> 森万由子 (東京大学) 系外惑星のトランジット多色観測における恒星活動の影響について
 
-- <span style="color: blue; ">5(5+0)min</span> 下条圭美 (国立天文台) [online] 電波による太陽長期変動探査　ー電波による恒星研究に向けてー
+- <span style="color: blue; ">5(5+0)min</span> 下条圭美 (国立天文台) <span style="color: red; ">[online]</span> 電波による太陽長期変動探査　ー電波による恒星研究に向けてー
 
 - <span style="color: blue; ">5(5+0)min</span> 柴田健吾（大阪大学）太陽フレアのループトップで生じる乱流の起源とその役割について
 
-- <span style="color: blue; ">5(5+0)min</span> 山敷庸亮(京都大学) [online] ハビタブル惑星への恒星フレアの影響評価
+- <span style="color: blue; ">5(5+0)min</span> 山敷庸亮(京都大学) <span style="color: red; ">[online]</span> ハビタブル惑星への恒星フレアの影響評価
 
 5min 以上4講演に関する質疑応答
 
