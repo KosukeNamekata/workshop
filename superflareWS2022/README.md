@@ -1,5 +1,9 @@
 ## Stellar magnetic activity workshop 2022
 
+
+<p><img src="/img/イラスト_横4_3.jpg" /></p> 
+
+
 ******************************************
 
 ●研究会: Stellar magnetic activity workshop 2022 (旧スーパーフレアWS)
