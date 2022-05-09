@@ -18,7 +18,7 @@
 
 1部 9:35-11:40 [座長: 柴田]
 
-- <span style="color: red; ">9:30(5min)</span> 世話人から諸注意&代表挨拶
+- <font color="blue">9:30(5min)</font> 世話人から諸注意&代表挨拶
 
 <Sun & Sun-like stars>
 
