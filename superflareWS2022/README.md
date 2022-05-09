@@ -18,11 +18,9 @@
 
 受付 9:00-9:30(兼ポスター掲載時間)
 
-### 1部 9:30-11:40 [座長: 柴田]
+### 1部 9:30-11:40 <Sun & Sun-like stars> [座長: 柴田] 
 
 - <span style="color: blue; ">9:30(5min)</span> 世話人から諸注意&代表挨拶
-
-<Sun & Sun-like stars>
 
 - <span style="color: blue; ">20(15+5)min</span> 前原裕之(国立天文台) 太陽型星のスーパーフレア：Kepler, TESS, せいめいで分かったこととこれからの課題
 
@@ -40,9 +38,7 @@
 
 ### お昼休憩&ポスター　11:40-13:00
 
-### 2部 13:00-15:20 [座長: 前原]
-
-<M dwarfs & exoplanets>
+### 2部 13:00-15:20 <M dwarfs & exoplanets> [座長: 前原]
 
 - <span style="color: blue; ">20(15+5)min</span> 野津湧太(コロラド大/東工大) Recent topics of stellar superflare studies
 
@@ -84,9 +80,7 @@
 
 
 
-### 3部 15:50-18:00 [座長: 野上]
-
-<Pre-main-sequence stars & RS CVn stars>
+### 3部 15:50-18:00 <Pre-main-sequence stars & RS CVn stars> [座長: 野上]
 
 - <span style="color: blue; ">10(7+3)min</span> 高棹真介（大阪大学）降着を受ける若い星の磁気活動に関する話題提供
 
