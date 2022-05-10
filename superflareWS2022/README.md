@@ -38,7 +38,7 @@
 
 ### 1部 9:30-11:40 <Sun & Sun-like stars> [座長: 柴田一成(京都大学/同志社大学)] 
 
-- <span style="color: blue; ">5min</span> 代表挨拶(3min) & 世話人から諸注意(2min)
+- <span style="color: blue; ">5min</span> 代表挨拶(3min) & 世話人から諸注意(2min) [諸注意の資料](https://drive.google.com/file/d/1Kpl3fXbhUjI8eNZaZjbj6RUwiITN5RnG/view?usp=sharing)
 
 - <span style="color: blue; ">20(15+5)min</span> 前原裕之(国立天文台) 太陽型星のスーパーフレア：Kepler, TESS, せいめいで分かったこととこれからの課題
 
