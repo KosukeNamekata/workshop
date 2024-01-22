@@ -21,15 +21,15 @@
 
 ### 招待講演者
 
-<p><img src="/workshop/maehara.jpeg" width="50%" /></p>
+<p><img src="/workshop/maehara.jpeg" width="30%" /></p>
 前原裕之(国立天文台)
 「恒星スーパーフレアとそれに伴う質量噴出現象」
 
-<p><img src="/workshop/hotta.jpg" width="50%" /></p>
+<p><img src="/workshop/hotta.jpg" width="30%" /></p>
 堀田英之(名古屋大学)
 「恒星物理学の大問題とその解決に向けた理論的取り組みについて」
 
-<p><img src="/workshop/toriumi.jpeg" width="50%" /></p>
+<p><img src="/workshop/toriumi.jpeg" width="30%" /></p>
 鳥海森(JAXA/ISAS)
 「恒星スペクトル再現研究の現状と課題」
 
