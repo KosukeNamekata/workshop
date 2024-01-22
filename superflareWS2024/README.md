@@ -19,7 +19,13 @@
 
 ******************************************
 
+### 招待講演者
 
+<p><img src="/workshop/maehara.jpeg" /></p>
+
+<p><img src="/workshop/hotta.jpg" /></p>
+
+<p><img src="/workshop/toriumi.jpeg" /></p>
 
 ******************************************
 
