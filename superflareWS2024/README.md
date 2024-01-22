@@ -21,11 +21,11 @@
 
 ### 招待講演者
 
-<p><img src="/workshop/maehara.jpeg" /></p>
+<p><img src="/workshop/maehara.jpeg" width="50%" /></p>
 
-<p><img src="/workshop/hotta.jpg" /></p>
+<p><img src="/workshop/hotta.jpg" width="50%" /></p>
 
-<p><img src="/workshop/toriumi.jpeg" /></p>
+<p><img src="/workshop/toriumi.jpeg" width="50%" /></p>
 
 ******************************************
 
