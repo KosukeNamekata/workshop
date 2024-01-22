@@ -1,18 +1,18 @@
 ## Stellar magnetic activity workshop 2022
 
-<p><img src="/workshop/イラスト_横4_3.jpg" /></p>
+#<p><img src="/workshop/イラスト_横4_3.jpg" /></p>
 
-<p><img src="/workshop/IMG_8935.jpeg" /></p>
-
+[](
+<p><img src="/workshop/IMG_8935.jpeg" /></p> \
 <span style="color: red; ">**ご参加いただきありがとうございました！！**</span>
-
+)
 ******************************************
 
-●研究会: Stellar magnetic activity workshop 2022 (旧スーパーフレアWS)
+●研究会: Stellar magnetic activity workshop 2024 (旧スーパーフレアWS)
 
-●日時: 2022/5/12(木) 
+●日時: 2024/2/29(木), 3/1(金) 
 
-●時間: 9:30-18:00 (予定)
+●時間: 2/29 10:00-18:00、3/1 9:00-18:00 (予定)
 
 ●主催: 京都大学スーパーフレアグループ
 
