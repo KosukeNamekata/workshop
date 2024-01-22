@@ -1,4 +1,4 @@
-## Stellar magnetic activity workshop 2022
+## Stellar magnetic activity workshop 2024
 
 [](
 <p><img src="/workshop/イラスト_横4_3.jpg" /></p> \
