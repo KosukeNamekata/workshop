@@ -21,8 +21,8 @@
 
 ### 招待講演者
 
-<p><img src="/workshop/maehara.jpeg" width="30%" /></p> 前原裕之(国立天文台・助教)
-「恒星スーパーフレアとそれに伴う質量噴出現象」
+<p><img src="/workshop/maehara.jpeg" width="30%" /> 前原裕之(国立天文台・助教)  
+「恒星スーパーフレアとそれに伴う質量噴出現象」　</p>
 
 <p><img src="/workshop/hotta_2.jpeg" width="30%" /></p>
 堀田英之(名古屋大学・教授)
