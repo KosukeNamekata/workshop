@@ -1,10 +1,5 @@
 ## Stellar magnetic activity workshop 2024
 
-[](
-<p><img src="/workshop/イラスト_横4_3.jpg" /></p> \
-<p><img src="/workshop/IMG_8935.jpeg" /></p> \
-<span style="color: red; ">**ご参加いただきありがとうございました！！**</span>
-)
 ******************************************
 
 ●研究会: Stellar magnetic activity workshop 2024 (旧スーパーフレアWS)
