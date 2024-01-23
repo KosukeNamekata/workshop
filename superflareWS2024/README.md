@@ -23,7 +23,7 @@
 ### 招待講演者
 
 <p align="center">
-  <img src="/workshop/invited.jpg" width="80%" alt="招待講演者" />
+  <img src="/workshop/invited.jpg" width="100%" alt="招待講演者" />
 </p>
 
 #### 特別講演-次世代ミッション紹介
