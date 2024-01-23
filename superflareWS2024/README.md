@@ -36,7 +36,7 @@
 
 ### スケジュール
 
-<span style="color: red; ">**Be Frexible**</span>  
+<span style="color: red; ">**Be Flexible**</span>  
 
 TBD
 
