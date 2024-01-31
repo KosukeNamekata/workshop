@@ -41,7 +41,7 @@
 
 [発表スケジュール(last update: 2024/1/31)](https://docs.google.com/spreadsheets/d/1Uae4bf0rhUzal-k6IOZxYUWQMuo5Z2cYU8dQ4CXYhY0/edit?usp=sharing)
 
-<span style="color: red; ">**Be Flexible**</span>  
+<span style="color: red; ">**Schedule is flexible. Please feel free to make any requests.**</span>  
 
 ******************************************
 
