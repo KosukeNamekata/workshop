@@ -13,7 +13,6 @@
 
 ●場所: 京都大学理学研究科セミナーハウス [Google Map](https://maps.app.goo.gl/8hH2BnuyUmkRejGW7) [北部構内map](https://www.kyoto-u.ac.jp/ja/access/campus/yoshida/map6r-n)
 
-
 ●方式: 現地発表・参加を推奨(聴講者/希望者用にzoomでのハイブリッド形式でも行う。発表形式の説明はページ下部を参照。)
 
 ●開催趣旨: 前回2022年の研究会では、恒星の磁気活動に関わる日本中の研究者を多く集め、お互いの研究の認知や、連携が加速しました。2023年には、新たにXRISMも打ち上がり、紫外線衛星LAPYUTAが公募型小型6号機候補に選定されるなど、恒星活動に関わるミッションに大きな動きがありました。この背景を踏まえ、今年は「Big questionsを共有し、観測すべき課題を整理し、現在稼働中・今後の計画を踏まえた中長期的戦略を皆で考える」ことを目標とします。そのために、分野をリードする先生方に招待講演を依頼し、それぞれの大問題を今後観測に落とし込む議論をできればと思います。また同様に、やる気ある若手研究者・学生からの口頭・ポスター発表を募集し、interactiveに議論できる場を提供します。
@@ -42,7 +41,7 @@
 
 <span style="color: red; ">**Be Flexible**</span>  
 
-TBD
+[発表スケジュール(last update: 2024/1/31)](https://docs.google.com/spreadsheets/d/1Uae4bf0rhUzal-k6IOZxYUWQMuo5Z2cYU8dQ4CXYhY0/edit?usp=sharing)
 
 ******************************************
 
