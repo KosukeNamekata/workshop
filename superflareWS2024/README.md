@@ -25,7 +25,7 @@
   <img src="/workshop/invited.jpg" width="100%" alt="招待講演者" />
 </p>
 
-#### 特別講演-次世代ミッション紹介
+### 特別講演-次世代ミッション紹介
 
 栗原明稀(東京大学、ISAS/JAXA)「XRISMの紹介(TBD)」
 
@@ -39,9 +39,19 @@
 
 ### スケジュール
 
+[発表スケジュール(last update: 2024/1/31)](https://docs.google.com/spreadsheets/d/1Uae4bf0rhUzal-k6IOZxYUWQMuo5Z2cYU8dQ4CXYhY0/edit?usp=sharing)
+
 <span style="color: red; ">**Be Flexible**</span>  
 
-[発表スケジュール(last update: 2024/1/31)](https://docs.google.com/spreadsheets/d/1Uae4bf0rhUzal-k6IOZxYUWQMuo5Z2cYU8dQ4CXYhY0/edit?usp=sharing)
+******************************************
+
+### 学生優秀発表賞
+
+-口頭発表を行った学生の中から、素晴らしい口頭発表を行った者に贈られる。
+
+-審査基準: 口頭発表における研究の面白さ・分かりやすさ、WSへの参加の意欲(質問や発言)。
+
+-審査員: 柴田一成(京都大学名誉教授), TBD
 
 ******************************************
 
