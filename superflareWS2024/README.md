@@ -73,7 +73,7 @@ Schedule is flexible. Please feel free to make any requests.
 
 ●その他
 
-- スライドは当日LOCより回収をお願いして回らせていただきます。
+- スライドは専用のGoogle Driveで回収します。
 - 記録用にzoomで録画させていただきますが、最後の全体議論以外は原則公開いたしません。
 - 人数分のeduroamを用意しています。
 
@@ -82,6 +82,5 @@ Schedule is flexible. Please feel free to make any requests.
 世話人 行方宏介(国立天文台)  
 旅費担当 幾田佳(東京大学)  
 懇親会担当 大津天斗(京都大学)  
-スライド回収担当 TBD
 
 
